@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "253340978782",
+    "firebase_url": "https://plantsnap-1.firebaseio.com",
+    "project_id": "plantsnap-1",
+    "storage_bucket": "plantsnap-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253340978782:android:fc8c68811fba2b1d5daecf",
+        "android_client_info": {
+          "package_name": "com.cs.project.chocofire.retreivefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "253340978782-1kq10lda31gqeao3vh1is6pfvo97sj37.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzXIJcIbbBolvrFyer3oRpU5l0LHY42QA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "253340978782-1kq10lda31gqeao3vh1is6pfvo97sj37.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
